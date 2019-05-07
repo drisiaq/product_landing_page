@@ -1,0 +1,82 @@
+body{
+    overflow-x: hidden;
+}
+
+#form{
+    text-align: center;
+}
+
+.container{
+    margin-top:45px;
+    margin-left: 200px; 
+}
+
+img{
+    display: inline;
+    margin-left: 20px;
+}
+
+h2{
+    display: inline;
+    margin-left: 15px;
+}
+
+.box-container{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.box{
+    text-align: center;    
+    border: 2px solid black;    
+    padding: 15px;
+    margin: 30px;
+    height: 250px;
+    width: 300px;
+}
+
+.dr-container{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.bx-container{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+.dr{
+    padding-top: 30px; 
+}
+  
+video{
+    justify-content: center; 
+    max-width: 560px;
+    width: 100%; 
+}
+
+h4{
+    font-size: 30px;
+    font-family: serif;
+    margin-top: 35px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+footer{
+    background-color: black;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+footer p{
+    color: gold;
+    font-family: serif;
+    font-size: 25px;
+    text-align: center;
+    padding: 40px;
+}
